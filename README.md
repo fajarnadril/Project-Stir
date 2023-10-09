@@ -12,7 +12,7 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 
 
 ## Video Trailer
-<img width="45%" src="https://github.com/fajarnadril/Project-Stir/blob/main/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b.png?raw=true" alt="Video Trailer" >
+<img src="https://github.com/fajarnadril/Project-Stir/blob/main/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b.png?raw=true" alt="Video Trailer" width="45%">
 
 
 
