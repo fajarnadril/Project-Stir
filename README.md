@@ -3,6 +3,7 @@
   </br>
   </br>
 </p>
+![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/612d0ce6-1bc7-4727-869b-f1d3762496c7)
 
 ## About
 **ProjectStir [Vertical Slice]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
@@ -10,7 +11,9 @@
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
 
-[![Video YouTube](https://img.youtube.com/vi/UWn3G_PZ_fA/0.jpg)](https://www.youtube.com/watch?v=UWn3G_PZ_fA)
+[![Video YouTube](https://img.youtube.com/vi/UWn3G_PZ_fA/5.jpg)](https://www.youtube.com/watch?v=UWn3G_PZ_fA)
+
+[![Video Trailer](https://img.youtube.com/vi/UWn3G_PZ_fA/0.jpg)](https://youtu.be/UWn3G_PZ_fA)
 
 
 
