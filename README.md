@@ -51,6 +51,7 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
 
 ## 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2021.3.11f1**, we suggest you to download this version because different ones (especially older) might give problems. Then, The package manager required to be downloaded through a package manager is:
+
 ![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/1741d5dc-3cfb-4eff-ba9d-90f86b9e9f35)
 
 
