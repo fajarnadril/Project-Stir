@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="500" alt="" src="">
+  <img width="500" alt="" src="![Screenshot 2023-10-09 172717](https://github.com/fajarnadril/Project-Stir/assets/36891062/de5e930b-023e-48b1-91ad-3bc4528d45b4)
+">
   </br>
   </br>
 </p>
