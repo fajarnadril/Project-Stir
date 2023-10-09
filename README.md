@@ -11,8 +11,9 @@
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
 
-
-[![Video Trailer](https://img.youtube.com/vi/UWn3G_PZ_fA/0.jpg)](https://youtu.be/UWn3G_PZ_fA)
+## Video Trailer
+[![Video Trailer](
+https://github.com/fajarnadril/Project-Stir/assets/36891062/f826e073-85e8-47ce-9114-d4b75ebe0b61)](https://youtu.be/UWn3G_PZ_fA)
 
 
 
