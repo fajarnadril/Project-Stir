@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="100%" alt="prostir" src="[https://github.com/fajarnadril/Project-Stir/assets/36891062/494e442b-76f7-4851-b312-4fc71aae13c2](https://github.com/fajarnadril/Project-Stir/assets/36891062/e87e0709-5fe6-407b-9514-cd8662e643e8)
-">
+  <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/e87e0709-5fe6-407b-9514-cd8662e643e8">
   </br>
   </br>
 </p>
