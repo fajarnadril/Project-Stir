@@ -18,6 +18,11 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 -[Thomas Galih Satria - Visual Designer]
 -[Galih Dea - Game Designer] 
 
+- [Elia Fantini]
+- [Olivier Lonneux]
+- [Gianni Lodetti]
+
+
 
 ## How to play
 The game was built as an **.exe** file of 1GB. Download the game from zzz (if the download link expires, please contact me). 
