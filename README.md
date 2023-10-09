@@ -2,14 +2,6 @@
   <img width="500" alt="RocketManLogo" src="https://user-images.githubusercontent.com/62103572/183918141-3c87876e-402a-401d-ade0-80678f4e4155.png">
   </br>
   </br>
-  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/y/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity">
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity">
-  <img alt="GitHub code size" src="https://img.shields.io/github/languages/code-size/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity">
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity">
-  <img alt="GitHub follow" src="https://img.shields.io/github/followers/EliaFantini?label=Follow">
-  <img alt="GitHub fork" src="https://img.shields.io/github/forks/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity?label=Fork">
-  <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity?label=Watch">
-  <img alt="GitHub star" src="https://img.shields.io/github/stars/EliaFantini/RocketMan-a-VR-videogame-created-with-Unity?style=social">
 </p>
 
 **ProjectStir** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
