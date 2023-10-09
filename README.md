@@ -12,15 +12,12 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
  <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/e87e0709-5fe6-407b-9514-cd8662e643e8">
 
 ## Developer
--[Kelvin - Unity Programmer Main Mechanic]
--[David Ang - Unity Programmer Game Mechanic] 
--[Muhamad Fajar - Unity Technical Artist]
--[Thomas Galih Satria - Visual Designer]
--[Galih Dea - Game Designer] 
+- [Kelvin - Unity Programmer Main Mechanic]
+- [David Ang - Unity Programmer Game Mechanic] 
+- [Muhamad Fajar - Unity Technical Artist]
+- [Thomas Galih Satria - Visual Designer]
+- [Galih Dea - Game Designer] 
 
-- [Elia Fantini]
-- [Olivier Lonneux]
-- [Gianni Lodetti]
 
 
 
