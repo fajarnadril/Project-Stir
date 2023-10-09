@@ -31,9 +31,10 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
 ## Files description
 
 ```
-├── CS-440                            # Folder containing all the Unity project files, to be opened by a Unity Editor
+├── Project-Stir                      # Folder containing all the Unity project files, to be opened by a Unity Editor
    ├── ...
    ├── Assets                         # Main folder of the project, it contains all our code, assets, prefabs, materials, sounds, scenes, videos and everything which was not automatically created by Unity
+      ├── ...
    ├── ...
 ├── report.pdf                        # The report of the project
 ├── VRProject_Guidelines_2022.pdf     # Pdf containing the project's guidelines and rules given by the course's professor
