@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="RocketManLogo" src="https://user-images.githubusercontent.com/62103572/183918141-3c87876e-402a-401d-ade0-80678f4e4155.png">
+  <img width="500" alt="RocketManLogo" src="">
   </br>
   </br>
 </p>
