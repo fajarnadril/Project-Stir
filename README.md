@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="RocketManLogo" src="">
+  <img width="500" alt="" src="">
   </br>
   </br>
 </p>
