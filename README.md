@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/494e442b-76f7-4851-b312-4fc71aae13c2
+  <img width="100%" alt="prostir" src="[https://github.com/fajarnadril/Project-Stir/assets/36891062/494e442b-76f7-4851-b312-4fc71aae13c2](https://github.com/fajarnadril/Project-Stir/assets/36891062/e87e0709-5fe6-407b-9514-cd8662e643e8)
 ">
   </br>
   </br>
@@ -10,7 +10,7 @@
 
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
- <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/e87e0709-5fe6-407b-9514-cd8662e643e8">
+ <img width="100%" alt="prostir" src="">
 
 ## Developer
 - [Kelvin - Unity Programmer Main Mechanic]
