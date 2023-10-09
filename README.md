@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/0662b94a-cbf9-46a0-b4de-f9f12cda9ac2">
+  <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/494e442b-76f7-4851-b312-4fc71aae13c2
+">
   </br>
   </br>
 </p>
@@ -31,22 +32,19 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
 ## Files description
 
 ```
-├── Project-Stir                      # Folder containing all the Unity project files, to be opened by a Unity Editor
+├── Project-Stir                      # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
    ├── ...
-   ├── Assets                         # Main folder of the project, it contains all our code, assets, prefabs, materials, sounds, scenes, videos and everything which was not automatically created by Unity
-      ├── ...
+   ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
+      ├── 2D
+      ├── 3rd Party                   # In this folder, there are several packages that you must add via Unity Package Manager
+      ├── Scenes
    ├── ...
-├── report.pdf                        # The report of the project
-├── VRProject_Guidelines_2022.pdf     # Pdf containing the project's guidelines and rules given by the course's professor
-└── README.md                         # You are here
 ```
 
 
 ## How to open up the project on Unity Editor
-This game was developed using **Unity Editor 2020.3.32f1**, we suggest you to download this version because different ones (especially older) might give problems.
+This game was developed using **Unity Editor 2021.3.11f1**, we suggest you to download this version because different ones (especially older) might give problems.
 
-
-Once you've downloaded the repository ( warning: it's 1.17GB) and extracted it into a folder, open up the folder CS-440 using the Unity Hub. If the version of the Unity Editor you're using to open the project is the correct one, no error should appear.
 
 ## Quick presentation slides
 The following presentation is a summary of the main features. For a detailed explanations of the realisation of all aspects of the game, please read the file **report.pdf**.
