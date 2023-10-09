@@ -14,20 +14,18 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 
 
 ## Developer
-- [Kelvin - Unity Programmer Main Mechanic]
-- [David Ang - Unity Programmer Game Mechanic] 
-- [Muhamad Fajar - Unity Technical Artist]
-- [Thomas Galih Satria - Visual Designer]
-- [Galih Dea - Game Designer] 
-
-
+- Kelvin - Unity Programmer Main Mechanic
+- David Ang - Unity Programmer Game Mechanic 
+- Muhamad Fajar - Unity Technical Artist
+- Thomas Galih Satria - Visual Designer
+- Galih Dea - Game Designer
 
 
 ## How to play
 The game was built as an **.exe** file of 1GB. Download the game from zzz (if the download link expires, please contact me). 
 
 ## Gameplay Trailer
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UWn3G_PZ_fA?si=SNvpmFXkNDmoHzxu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ## Files description
