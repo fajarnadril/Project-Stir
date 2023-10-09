@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="500" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/de5e930b-023e-48b1-91ad-3bc4528d45b4">
+  <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/de5e930b-023e-48b1-91ad-3bc4528d45b4">
   </br>
   </br>
 </p>
