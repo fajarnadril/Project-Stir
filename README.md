@@ -6,7 +6,7 @@
 
 
 ## About
-**ProjectStir [Alpha]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
+**ProjectStir [Pre-Alpha]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
 
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
