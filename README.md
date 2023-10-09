@@ -8,21 +8,22 @@
 
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
-<img align="center" width="auto" alt="Immagine 2022-08-10 175533" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/6751076d-6b02-43b9-ba4b-27523c04b857">
+<img align="center" width="auto" alt="Immagine 2022-08-10 175533" src="![Screenshot 2023-10-09 195522](https://github.com/fajarnadril/Project-Stir/assets/36891062/e87e0709-5fe6-407b-9514-cd8662e643e8)
+">
 
-## Authors
-- [Elia Fantini](https://github.com/EliaFantini)
-- [Olivier Lonneux](https://github.com/Olivier-Lonneux)
-- [Gianni Lodetti](https://github.com/Gianniii)
+## Developer
+Kelvin - Unity Programmer Main Mechanic
+David Ang - Unity Programmer Game Mechanic 
+Muhamad Fajar - Unity Technical Artist
+Thomas Galih Satria - Visual Designer
+Galih Dea - Game Designer 
+
 
 ## How to play
-The game was built as an **.apk** file of 139 MB. Download the game from [here](https://drive.google.com/file/d/11GLue_6yvf3JiYeFwc-NR2a00tw4diwA/view?usp=sharing) (if the download link expires, please contact me). To install on your Oculus Quest an apk that does not come from the oculus quest store, you can follow one of the many tutorials on the web, like [this one](https://www.youtube.com/watch?v=WIbSYRc0ICk).
+The game was built as an **.exe** file of 1GB. Download the game from zzz (if the download link expires, please contact me). 
 
 ## Gameplay Trailer
-The GIF and video that follow contain some gameplay scenes that might represent a **spoiler** of the solution of some riddles in the game. Be aware of this before watching them, if you want to play the game. Since GitHub doesn't let upload videos bigger than 10MB, the video had to be compressed and the quality is much lower than the original.  :(
 
-
-https://user-images.githubusercontent.com/62103572/183925619-1bf638b2-4384-43f7-94e9-44aaac373e29.mp4
 
 
 ## Files description
