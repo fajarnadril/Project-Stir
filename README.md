@@ -50,11 +50,16 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
 
 
 ## 🔥How to open up the project on Unity Editor
-This game was developed using **Unity Editor 2021.3.11f1**, we suggest you to download this version because different ones (especially older) might give problems. Then, The package manager required to be downloaded through a package manager is:
-
+This game was developed using Unity Editor 2021.3.11f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
 ![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/1741d5dc-3cfb-4eff-ba9d-90f86b9e9f35)
 
+You are required to download several assets from the Unity Asset Store to properly operate this game. All assets should be placed in the 3rd Party folder. The assets that need to be downloaded are as follows:
 
+Download Here
+https://assetstore.unity.com/packages/tools/integration/logitech-gaming-sdk-6630
+https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296
+https://assetstore.unity.com/packages/3d/environments/japanese-city-modular-pack-v1-4-239043
+https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938
 
 
 
