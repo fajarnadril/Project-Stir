@@ -1,8 +1,8 @@
 <p align="center">
   <img width="100%" alt="prostir" src="https://github.com/fajarnadril/Project-Stir/assets/36891062/612d0ce6-1bc7-4727-869b-f1d3762496c7">
   </br>
-  </br>
 </p>
+
 ## 🔴About
 **ProjectStir [Pre-Alpha]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
 
