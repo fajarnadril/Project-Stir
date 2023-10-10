@@ -26,7 +26,7 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 <br>
 
 ## 🕹️Download Game
-The game was built as an **.exe** file of 1GB. Download the game from [zzz](https://binusianorg-my.sharepoint.com/personal/muhamad_fajar_binus_ac_id/_layouts/15/guestaccess.aspx?share=EmZlw3ggUalAt92oG2KBYiABXBStEqtOK7-_jkvSRaUwZA&e=HLU1cs) (if the download link expires, please contact me). 
+The game was built as an **.exe** file of 1GB. Download the game from [Download Game](https://binusianorg-my.sharepoint.com/personal/muhamad_fajar_binus_ac_id/_layouts/15/guestaccess.aspx?share=EmZlw3ggUalAt92oG2KBYiABXBStEqtOK7-_jkvSRaUwZA&e=HLU1cs) (if the download link expires, please contact me). 
 
 <br>
 
