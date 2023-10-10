@@ -49,7 +49,7 @@ This game was developed using **Unity Editor 2021.3.11f1**, and we recommend tha
 
 ![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/1741d5dc-3cfb-4eff-ba9d-90f86b9e9f35)
 
-You are **required to download several assets from the Unity Asset Store** to properly operate this game. All assets should be placed in the **3rd Party folder**. The assets that need to be downloaded are as follows:
+You are **required to download several assets from the Unity Asset Store** to properly operate this game. All assets should be placed in the **3rdParty folder**. The assets that need to be downloaded are as follows:
 
 **Download Here:**
 - Japanese City Megapack (URP 2020) : https://assetstore.unity.com/packages/3d/environments/japanese-city-modular-pack-v1-4-239043
