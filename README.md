@@ -17,7 +17,7 @@ The game was built as an **.exe** file of <2GB. Download the game from [Download
 <br>
 
 ## ▶️ Video Gameplay
-[![Video Gameplay](https://github.com/fajarnadril/Project-Stir/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b?raw=true)](https://youtu.be/UWn3G_PZ_fA)
+https://youtu.be/UWn3G_PZ_fA
 
 
 <br>
