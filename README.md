@@ -56,11 +56,11 @@ This game was developed using Unity Editor 2021.3.11f1, and we recommend that yo
 
 You are required to download several assets from the Unity Asset Store to properly operate this game. All assets should be placed in the 3rd Party folder. The assets that need to be downloaded are as follows:
 
-Download Here
-https://assetstore.unity.com/packages/tools/integration/logitech-gaming-sdk-6630
-https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296
-https://assetstore.unity.com/packages/3d/environments/japanese-city-modular-pack-v1-4-239043
-https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938
+Download Here:
+- https://assetstore.unity.com/packages/tools/integration/logitech-gaming-sdk-6630
+- https://assetstore.unity.com/packages/tools/physics/realistic-car-controller-16296
+- https://assetstore.unity.com/packages/3d/environments/japanese-city-modular-pack-v1-4-239043
+- https://assetstore.unity.com/packages/vfx/particles/environment/rain-maker-2d-and-3d-rain-particle-system-for-unity-34938
 
 
 
