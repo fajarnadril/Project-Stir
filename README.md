@@ -50,7 +50,8 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
 
 
 ## 🔥How to open up the project on Unity Editor
-This game was developed using Unity Editor 2021.3.11f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems.
+This game was developed using Unity Editor 2021.3.11f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
+
 ![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/1741d5dc-3cfb-4eff-ba9d-90f86b9e9f35)
 
 You are required to download several assets from the Unity Asset Store to properly operate this game. All assets should be placed in the 3rd Party folder. The assets that need to be downloaded are as follows:
