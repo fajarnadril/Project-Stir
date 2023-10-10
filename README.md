@@ -38,8 +38,10 @@ https://youtu.be/UWn3G_PZ_fA
    ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
       ├── 2D
       ├── 3rdParty                   # In this folder, there are several packages that you must add via Unity Package Manager
-      ├── Scenes
+      ├── Scenes                     # In this folder, there are several unity scenes
+      ├── ....
    ├── ...
+      
 ```
 <br>
 
