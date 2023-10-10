@@ -36,9 +36,9 @@ https://youtu.be/UWn3G_PZ_fA
 ├── Project-Stir                      # In this Folder, containing all the Unity project files, to be opened by a Unity Editor
    ├── ...
    ├── Assets                         #  In this Folder, it contains all our code, assets, scenes, etcwas not automatically created by Unity
-      ├── 2D
+      ├── ...
       ├── 3rdParty                   # In this folder, there are several packages that you must add via Unity Package Manager
-      ├── Scenes                     # In this folder, there are several unity scenes
+      ├── Scenes                     # In this folder, there are scenes. You can open these scenes to play the game via Unity
       ├── ....
    ├── ...
       
@@ -48,7 +48,8 @@ https://youtu.be/UWn3G_PZ_fA
 ## 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2021.3.11f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
 
-![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/1741d5dc-3cfb-4eff-ba9d-90f86b9e9f35)
+![image](https://github.com/fajarnadril/Project-Stir/assets/36891062/1d44502b-1dfb-424c-97d1-6b1a93616ffc)
+
 
 You are **required to download several assets from the Unity Asset Store** to properly operate this game. All assets should be placed in the **3rdParty folder**. The assets that need to be downloaded are as follows:
 
