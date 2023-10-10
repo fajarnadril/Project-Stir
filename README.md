@@ -3,6 +3,7 @@
   </br>
   </br>
 </p>
+
 ## 🔴About
 **ProjectStir [Pre-Alpha]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
 
@@ -40,6 +41,7 @@ The game was built as an **.exe** file of 1GB. Download the game from [Download 
       ├── Scenes
    ├── ...
 ```
+<br>
 
 ## 🔥How to open up the project on Unity Editor
 This game was developed using Unity Editor 2021.3.11f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
