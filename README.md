@@ -4,8 +4,6 @@
   </br>
 </p>
 
-<br>
-
 ## 🔴About
 **ProjectStir [Pre-Alpha]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
 
@@ -16,6 +14,7 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 ## ▶️ Video Trailer
 [![Video Trailer](https://github.com/fajarnadril/Project-Stir/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b?raw=true)](https://youtu.be/UWn3G_PZ_fA)
 
+<br>
 
 ## 👤Developer
 - Kelvin - Unity Programmer Main Mechanic
@@ -24,10 +23,12 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 - Thomas Galih Satria - Visual Designer
 - Galih Dea - Game Designer
 
+<br>
 
-## 🕹️How to play
-The game was built as an **.exe** file of 1GB. Download the game from zzz (if the download link expires, please contact me). 
+## 🕹️Download Game
+The game was built as an **.exe** file of 1GB. Download the game from [zzz](https://binusianorg-my.sharepoint.com/personal/muhamad_fajar_binus_ac_id/_layouts/15/guestaccess.aspx?share=EmZlw3ggUalAt92oG2KBYiABXBStEqtOK7-_jkvSRaUwZA&e=HLU1cs) (if the download link expires, please contact me). 
 
+<br>
 
 ## 📂Files description
 
@@ -40,7 +41,6 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
       ├── Scenes
    ├── ...
 ```
-
 
 ## 🔥How to open up the project on Unity Editor
 This game was developed using Unity Editor 2021.3.11f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
