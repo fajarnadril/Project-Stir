@@ -10,15 +10,17 @@
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
 <br>
-
-## ▶️ Video Trailer
-[![Video Trailer](https://github.com/fajarnadril/Project-Stir/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b?raw=true)](https://youtu.be/UWn3G_PZ_fA)
-
-<br>
 ## 🕹️Download Game
 The game was built as an **.exe** file of <2GB. Download the game from [Download Here!](https://binusianorg-my.sharepoint.com/personal/muhamad_fajar_binus_ac_id/_layouts/15/guestaccess.aspx?share=EmZlw3ggUalAt92oG2KBYiABXBStEqtOK7-_jkvSRaUwZA&e=HLU1cs) (if the download link expires, please contact me). 
 
 <br>
+
+## ▶️ Video Trailer
+[![Video Trailer](https://github.com/fajarnadril/Project-Stir/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b?raw=true)](https://youtu.be/UWn3G_PZ_fA)
+
+
+<br>
+
 ## 👤Developer
 - Kelvin - Unity Programmer Main Mechanic
 - David Ang - Unity Programmer Game Mechanic 
@@ -27,6 +29,7 @@ The game was built as an **.exe** file of <2GB. Download the game from [Download
 - Galih Dea - Game Designer
 
 <br>
+
 ## 📂Files description
 
 ```
