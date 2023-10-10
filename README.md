@@ -5,16 +5,18 @@
 </p>
 
 <br>
+
 ## 🔴About
 **ProjectStir [Pre-Alpha]** is a driving simulation application designed for measuring driving skills with a performance-oriented approach. In this application, drivers or users are required to navigate through a city environment while collecting checkpoints. The performance being assessed involves determining how many checkpoints can be successfully gathered within a specific time frame. This performance measurement also includes a variable called "damage," which measures the level of damage to the car during the driving experience.
 
 The chosen city environment represents an urban setting in Asia, featuring one-way streets that can accommodate a single car. The better the user's performance, with more checkpoints collected and less damage sustained, the better the overall outcome. Project-Stir can be operated using a keyboard, joystick, or steering wheel controller.
 
 <br>
+
 ## ▶️ Video Trailer
 [![Video Trailer](https://github.com/fajarnadril/Project-Stir/assets/36891062/8906648d-8261-4d9d-a984-e4d32adf956b?raw=true)](https://youtu.be/UWn3G_PZ_fA)
 
-<br>
+
 ## 👤Developer
 - Kelvin - Unity Programmer Main Mechanic
 - David Ang - Unity Programmer Game Mechanic 
@@ -22,11 +24,11 @@ The chosen city environment represents an urban setting in Asia, featuring one-w
 - Thomas Galih Satria - Visual Designer
 - Galih Dea - Game Designer
 
-<br>
+
 ## 🕹️How to play
 The game was built as an **.exe** file of 1GB. Download the game from zzz (if the download link expires, please contact me). 
 
-<br>
+
 ## 📂Files description
 
 ```
@@ -39,7 +41,7 @@ The game was built as an **.exe** file of 1GB. Download the game from zzz (if th
    ├── ...
 ```
 
-<br>
+
 ## 🔥How to open up the project on Unity Editor
 This game was developed using Unity Editor 2021.3.11f1, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
 
