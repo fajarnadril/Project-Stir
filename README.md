@@ -49,7 +49,7 @@ https://youtu.be/UWn3G_PZ_fA
 ```
 <br>
 
-#### 🕹️Game controls
+## 🕹️Game controls
 
 The following controls are bound in-game, for gameplay and testing.
 
@@ -60,7 +60,7 @@ The following controls are bound in-game, for gameplay and testing.
 | Space             | Hand Break            |
 
 
-####  Scripts and Features
+##  📜Scripts and Features
 
 - In this game, we collect player performance data and store it in Google Sheets using Unity Networking WWW by submitting a form.
 - The leaderboard is sorted A-Z and handled by Looker Studio for display on the screen.
@@ -73,6 +73,7 @@ The following controls are bound in-game, for gameplay and testing.
 | `SaturationChanger.cs`  | Controls the saturation levels of the 3D environment via post-processing. |
 | `UIHandler.cs`  | Manages various UI elements and organizes them into sequences. |
 | `etc`  | |
+
 
 ## 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2021.3.11f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
