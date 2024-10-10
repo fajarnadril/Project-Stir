@@ -19,7 +19,7 @@ Itch.io : https://binusgat.itch.io/project-stir
 <br>
 
 ## ▶️ Video Gameplay
-<img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
+<img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:50%;height:auto;">
 View Full Gameplay : https://youtu.be/UWn3G_PZ_fA
 
 
