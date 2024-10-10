@@ -59,6 +59,7 @@ The following controls are bound in-game, for gameplay and testing.
 | F             | NOS              |
 | Space             | Hand Break            |
 
+<br>
 
 ##  📜Scripts and Features
 
@@ -74,6 +75,7 @@ The following controls are bound in-game, for gameplay and testing.
 | `UIHandler.cs`  | Manages various UI elements and organizes them into sequences. |
 | `etc`  | |
 
+<br>
 
 ## 🔥How to open up the project on Unity Editor
 This game was developed using **Unity Editor 2021.3.11f1**, and we recommend that you download this specific version because using different ones, especially older versions, might result in problems
