@@ -20,7 +20,8 @@ The game was built as an **.exe** file of <2GB. Download the game from [Download
 <br>
 
 ## ▶️ Video Gameplay
-https://youtu.be/UWn3G_PZ_fA
+<img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:100%;height:auto;">
+View Full Gameplay : https://youtu.be/UWn3G_PZ_fA
 
 
 <br>
