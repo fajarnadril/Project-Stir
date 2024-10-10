@@ -16,6 +16,7 @@ Within this gaming environment, an user data collection process is employed, emp
 
 ## 🕹️Download Game
 Itch.io : https://binusgat.itch.io/project-stir
+
 <br>
 
 ## ▶️ Video Gameplay
