@@ -26,7 +26,7 @@ View Full Gameplay : https://youtu.be/UWn3G_PZ_fA
 
 <br>
 
-## 👤Developer
+## 👤Developer & Contributions
 - Kelvin - Unity Programmer Main Mechanic
 - David Ang - Unity Programmer Game Mechanic 
 - Muhamad Fajar - Unity Technical Artist
