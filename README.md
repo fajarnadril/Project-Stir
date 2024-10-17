@@ -14,13 +14,13 @@ Within this gaming environment, an user data collection process is employed, emp
 
 ## 📋 Project Info
 
-| **Role** | **Name** | **Development Time** | **Engine** |
-|:-|:-|:-|:-|
-| Game Programmer - Main Mechanic | Kelvin | 3 Day | Unity 2022|
-| Game Programmer - Game Mechanic | David Ang | 3 Day | Unity 2022|
-| Project Lead | Fajar | 3 Day | Unity 2022|
-| Visual Designer | Thomas Galih | 3 Day | Unity 2022|
-| Game Designer & Sound - Galih Dea | Kelvin | 3 Day | Unity 2022|
+| **Role** | **Name** | **Development Time** 
+|:-|:-|:-|
+| Game Programmer - Main Mechanic | Kelvin | 3 Day |
+| Game Programmer - Game Mechanic | David Ang | 3 Day |
+| Project Lead | Fajar | 3 Day | 
+| Visual Designer | Thomas Galih | 3 Day |
+| Game Designer & Sound - Galih Dea | Kelvin | 3 Day |
 
 
 ## 🕹️Download Game
