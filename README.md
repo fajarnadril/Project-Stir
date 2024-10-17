@@ -11,6 +11,7 @@ The game is set against an urban backdrop in Asia, replete with one-way streets 
 Within this gaming environment, an user data collection process is employed, employing a Leaderboard-based, game-oriented methodology. The feature for gathering performance data is initiated through data submission following a player's successful game completion. The variables collected encompass **Player Nickname**, **Checkpoint**, and **Damage** data. This performance data is seamlessly integrated with Looker Studio, a public-accessible data visualization tool. This data collection methodology is easily accessible for entertainment purposes or, if necessary, for research applications. Access to this data is available via https://lookerstudio.google.com/reporting/b00ab0ae-0caf-4b2b-855f-a3c7b88dc9f7
 
 <br>
+
 ## 📋 Project Info
 
 | **Role** | **Team Size** | **Development Time** | **Engine** |
