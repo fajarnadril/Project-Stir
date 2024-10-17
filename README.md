@@ -17,11 +17,11 @@ This project using Unity 2021.3.11f1
 
 | **Role** | **Name** | **Development Time** 
 |:-|:-|:-|
-| Game Programmer - Main Mechanic | Kelvin | 3 Day |
-| Game Programmer - Game Mechanic | David Ang | 3 Day |
+| Game Programmer - Main Mechanic | Kelvin | 2 Day |
+| Game Programmer - Game Mechanic | David Ang | 1 Day |
 | Project Lead | Fajar | 3 Day | 
-| Visual Designer | Thomas Galih | 3 Day |
-| Game Designer & Sound - Galih Dea | Kelvin | 3 Day |
+| Visual Designer | Thomas Galih | 1 Day |
+| Game Designer & Sound - Galih Dea | Kelvin | 1 Day |
 
 
 ## 🕹️Download Game
