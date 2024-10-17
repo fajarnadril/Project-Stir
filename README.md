@@ -13,6 +13,7 @@ Within this gaming environment, an user data collection process is employed, emp
 <br>
 
 ## 📋 Project Info
+This project using Unity 2021.3.11f1
 
 | **Role** | **Name** | **Development Time** 
 |:-|:-|:-|
