@@ -14,9 +14,13 @@ Within this gaming environment, an user data collection process is employed, emp
 
 ## 📋 Project Info
 
-| **Role** | **Team Size** | **Development Time** | **Engine** |
+| **Role** | **Name** | **Development Time** | **Engine** |
 |:-|:-|:-|:-|
-| Game Programmer | 6 | 3 Day | Unity 2022|
+| Game Programmer | Kelvin | 3 Day | Unity 2022|
+| Game Programmer | Kelvin | 3 Day | Unity 2022|
+| Game Programmer | Kelvin | 3 Day | Unity 2022|
+| Game Programmer | Kelvin | 3 Day | Unity 2022|
+| Game Programmer | Kelvin | 3 Day | Unity 2022|
 
 ## 👤Developer & Contributions
 - Kelvin - Unity Programmer Main Mechanic
