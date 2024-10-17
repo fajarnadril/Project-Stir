@@ -16,19 +16,12 @@ Within this gaming environment, an user data collection process is employed, emp
 
 | **Role** | **Name** | **Development Time** | **Engine** |
 |:-|:-|:-|:-|
-| Game Programmer | Kelvin | 3 Day | Unity 2022|
-| Game Programmer | Kelvin | 3 Day | Unity 2022|
-| Game Programmer | Kelvin | 3 Day | Unity 2022|
-| Game Programmer | Kelvin | 3 Day | Unity 2022|
-| Game Programmer | Kelvin | 3 Day | Unity 2022|
+| Game Programmer - Main Mechanic | Kelvin | 3 Day | Unity 2022|
+| Game Programmer - Game Mechanic | David Ang | 3 Day | Unity 2022|
+| Project Lead | Fajar | 3 Day | Unity 2022|
+| Visual Designer | Thomas Galih | 3 Day | Unity 2022|
+| Game Designer & Sound - Galih Dea | Kelvin | 3 Day | Unity 2022|
 
-## 👤Developer & Contributions
-- Kelvin - Unity Programmer Main Mechanic
-- David Ang - Unity Programmer Game Mechanic 
-- Muhamad Fajar - Unity Technical Artist
-- Thomas Galih Satria - Visual Designer
-- Galih Dea - Game Designer
-<br>
 
 ## 🕹️Download Game
 Itch.io : https://binusgat.itch.io/project-stir
