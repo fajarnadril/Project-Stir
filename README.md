@@ -9,6 +9,10 @@
 The game is set against an urban backdrop in Asia, replete with one-way streets capable of accommodating only one vehicle at any given moment. Enhanced user performance, characterized by a greater accumulation of checkpoints and minimal vehicle damage, leads to superior overall outcomes. Project-Stir can be operated using various input devices, including a keyboard, joystick, or steering wheel controller.
 
 Within this gaming environment, an user data collection process is employed, employing a Leaderboard-based, game-oriented methodology. The feature for gathering performance data is initiated through data submission following a player's successful game completion. The variables collected encompass **Player Nickname**, **Checkpoint**, and **Damage** data. This performance data is seamlessly integrated with Looker Studio, a public-accessible data visualization tool. This data collection methodology is easily accessible for entertainment purposes or, if necessary, for research applications. Access to this data is available via https://lookerstudio.google.com/reporting/b00ab0ae-0caf-4b2b-855f-a3c7b88dc9f7
+<br>
+## ▶️ Video Gameplay
+<img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:50%;height:auto;">
+View Full Gameplay : https://youtu.be/UWn3G_PZ_fA
 
 ## 🕹️Download Game
 Itch.io : https://binusgat.itch.io/project-stir
@@ -29,11 +33,6 @@ This project using Unity 2021.3.11f1
 
 
 
-<br>
-
-## ▶️ Video Gameplay
-<img src="https://github.com/KXLVXN7/KXLVXN7/blob/main/gif/pstir.gif" alt="1" style="width:50%;height:auto;">
-View Full Gameplay : https://youtu.be/UWn3G_PZ_fA
 
 
 <br>
